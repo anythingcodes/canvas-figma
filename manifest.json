@@ -1,0 +1,8 @@
+{
+  "name": "canvas-figma",
+  "id": "816038803588448074",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "build": "/usr/local/bin/node node_modules/.bin/webpack --mode=production"
+}
